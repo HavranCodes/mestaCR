@@ -3,26 +3,47 @@
   "features": [
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2509,
+          49.5938
+        ]
+      },
       "properties": {
         "id": 1,
         "nazev": "Olomouc",
         "popisek": "Historické město na Moravě, sídlo Olomouckého kraje. Proslulé Sloupem Nejsvětější Trojice (UNESCO) a druhou nejstarší univerzitou v ČR."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [17.2509, 49.5938]
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4378,
+          50.0755
+        ]
+      },
       "properties": {
         "id": 2,
         "nazev": "Praha",
         "popisek": "Hlavní a největší město České republiky na řece Vltavě. Známá Pražským hradem, Karlovým mostem a Staroměstským náměstím."
-      },
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [14.4378, 50.0755]
+        "coordinates": [
+          16.6068,
+          49.1951
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "nazev": "Brno",
+        "popisek": "Druhé největší město České republiky a metropole Moravy. Známé hradem Špilberk, katedrálou sv. Petra a Pavla a funkcionalistickou vilou Tugendhat (UNESCO)."
       }
     }
   ]
